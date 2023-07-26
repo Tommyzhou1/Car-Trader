@@ -1,9 +1,3 @@
-# Team37 - Car Trader
-**This is Phase 2 of team 37's Car Trader web app for CSC309.
-Main Deployed Page:**
-<br/>
-**https://the-car-trader.herokuapp.com/**
-
 ## Home Page
 Once the page is loaded, you will be greeted with our home page.
 
